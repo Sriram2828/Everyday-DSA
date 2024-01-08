@@ -18,7 +18,7 @@ is equal to N itself. So, it's a
 Perfect Number.
 
 """
-#Problem's link: https://www.geeksforgeeks.org/problems/perfect-numbers3207/0
+#Problem's link: https://www.geeksforgeeks.org/problems/perfect-numbers/0
 
 #Solution Code:
 class Solution:
